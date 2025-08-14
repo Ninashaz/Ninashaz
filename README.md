@@ -2,7 +2,7 @@
 ![My photo](nini.png)
 # 👋 Hi, I'm Nina Shabanzadeh
 
-💡 **Freelance Data Analyst & Data Engineer**  
+💡 ** Data Analyst & Data Engineer**  
 📍 Hoorn, Netherlands | ✉️ nina.shaz1996@gmail.com  
 
 Master’s in **Data-Driven Design** with 2+ years of experience in **data analysis**, **SQL**, **Python**, and **dashboard development**.  
