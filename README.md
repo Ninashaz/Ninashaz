@@ -2,8 +2,8 @@
 ![My photo](nini.png)
 # 👋 Hi, I'm Nina Shabanzadeh
 
-💡 ** Data Analyst & Data Engineer**  
-📍 Hoorn, Netherlands | ✉️ nina.shaz1996@gmail.com  
+💡 **Data Analyst & Data Engineer**  
+📍 Netherlands | ✉️ nina.shaz1996@gmail.com  
 
 Master’s in **Data-Driven Design** with 2+ years of experience in **data analysis**, **SQL**, **Python**, and **dashboard development**.  
 Skilled in building data pipelines, optimizing workflows, and delivering actionable business insights.  
