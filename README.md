@@ -1,8 +1,5 @@
-##🙋🏻‍♀️ Introducing Myself
 # Welcome to My GitHub Profile!
-
-![Your Banner Image](https://files.fm/u/qaytvjvfqq)
-
+![My Photo](https://files.fm/u/qaytvjvfqq)
 I'm a developer passionate about open source and machine learning. Here you'll find my projects and contributions.
 
 - 🔭 I’m currently working on...
