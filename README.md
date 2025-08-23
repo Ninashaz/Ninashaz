@@ -21,9 +21,9 @@ Experienced in **regression**, **clustering**, and **machine learning** for tren
 ---
 
 ## 📚 Selected Projects
-*(Add GitHub repos or portfolio links here — even screenshots if private)*
+[Fraud Detection with Streamlit Project](https://github.com/Ninashaz/Fraud-Detection-with-Streamlit)
 
----
+[Excel-powerquery-transformation](https://github.com/Ninashaz/excel-powerquery-transformation)
 
 ## 🛠️ Tools & Technologies
 **Languages:** SQL, Python  
